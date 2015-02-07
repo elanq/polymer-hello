@@ -1,0 +1,27 @@
+{
+  "name": "polymer-hello",
+  "version": "0.0.1",
+  "authors": [
+    "Elan Qisthi <elanqisthi@gmail.com>"
+  ],
+  "description": "My test project for phonegap application with polymer",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "phonegap",
+    "polymer"
+  ],
+  "license": "MIT",
+  "homepage": "http://qisthi.me",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~0.5.4"
+  }
+}
